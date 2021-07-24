@@ -1,0 +1,22 @@
+#header-nav{
+	background-color: lightskyblue;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand h1{
+	line-height: 1px;
+}
+h2, h3{
+	text-align: center;
+}
+.lorem{
+	background-color: grey;
+}
+p{
+	text-align: center;
+	height: 1000px;
+}
+#nav-list{
+	text-align: center;
+	background-color: peachpuff;	
+}
